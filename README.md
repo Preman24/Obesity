@@ -5,6 +5,7 @@ As one of the most serious public health challenges of the 21st century, the imp
 
 
 Neural Network Predictions
+
 => Method
 - Set the dependent variable (obesity_level) to sparse output for the multi-class output
 - built 3 layers to keep the model simple since the dataset is considered small (~ 2112 samples)
@@ -16,7 +17,10 @@ Neural Network Predictions
 => Result
 <img width="984" height="784" alt="image" src="https://github.com/user-attachments/assets/5c1ccb3f-205a-4da7-b21a-7a6099051659" />
 
-training accuracy: 0.9323 
-training loss: 0.4241 
-validation accuracy: 0.9734 
-validation loss: 0.3335
+| Metric                | Value   |
+|-----------------------|---------|
+| Training Accuracy      | 0.9323  |
+| Training Loss          | 0.4241  |
+| Validation Accuracy     | 0.9734  |
+| Validation Loss         | 0.3335  |
+| Overall Accuracy (Based on testing)        | 0.9551  |
