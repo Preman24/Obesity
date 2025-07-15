@@ -4,14 +4,14 @@ As one of the most serious public health challenges of the 21st century, the imp
 # Key Findings
 Correlation analysis
 
-Obesity
+=> Obesity
 - Weight: Strongest correlation with obesity at 0.418, indicating higher weight significantly increases obesity risk.
 - Frequent Snacking: Moderate correlation of 0.362, suggesting that eating between meals contributes to increased caloric intake and obesity risk.
 - Family History: Correlation of 0.359, highlighting the role of genetic predisposition and shared environmental factors in obesity.
 - Age: Correlation of 0.291, indicating that older individuals may face metabolic changes and lifestyle factors that contribute to weight gain.
 - Gender: Weakest correlation at 0.114, suggesting that while there are differences in obesity rates by gender, they are less significant than other factors.
 
-Insights on Independent Variables
+=> Insights on Independent Variables
 - Gender and Height: Highest correlation at 0.618, indicating a strong relationship that may affect weight perceptions and management.
 - Weight and Family History: Correlation of 0.497, underscoring the connection between weight and genetic predisposition.
 - Height and Weight: Correlation of 0.462, suggesting that height influences weight norms and perceptions.
