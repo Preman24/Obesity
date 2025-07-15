@@ -5,12 +5,10 @@ As one of the most serious public health challenges of the 21st century, the imp
 Demographic Factors
 
 - Gender
-> Females: More "Insufficient Weight" found (173 vs. 134 expected).
-> Males: More "Overweight" found(332 vs. 293 expected).
+>> Females: More "Insufficient Weight" found (173 vs. 134 expected).
+>> Males: More "Overweight" found(332 vs. 293 expected).
 - Age: Significant link (F-statistic: 95.573, p-value: 5.39e-58); younger individuals show higher obesity.
-
 - Height: Taller individuals are often "Normal" weight (F-statistic: 16.109, p-value: 2.36e-10).
-
 - Family History: Strong relationship (Chi-square: 575.571, p-value: 0.0000); those with a family history are more likely to be "Obese" (964 vs. 177 expected).
 
 
