@@ -14,5 +14,9 @@ Neural Network Predictions
 - Used EarlyStopping to stop the model once the performance does not improve after learning for a period of time
 
 => Result
-- 
 <img width="984" height="784" alt="image" src="https://github.com/user-attachments/assets/5c1ccb3f-205a-4da7-b21a-7a6099051659" />
+
+training accuracy: 0.9323 
+training loss: 0.4241 
+validation accuracy: 0.9734 
+validation loss: 0.3335
