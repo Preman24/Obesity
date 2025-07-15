@@ -24,3 +24,5 @@ Neural Network Predictions
 | Validation Accuracy     | 0.9734  |
 | Validation Loss         | 0.3335  |
 | Overall Accuracy (Based on testing)        | 0.9551  |
+
+The model demonstrates strong performance with a training accuracy of 93.23%, indicating that it effectively learns from the training data. The training loss of 0.4241 suggests that the model is minimizing errors during training. The validation accuracy of 97.34% reflects its ability to generalize well to unseen data, indicating that the model is not overfitting. With an overall accuracy of 95.51%, the model achieves a high level of accuracy across all evaluations, making it reliable for practical applications
