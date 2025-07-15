@@ -1,6 +1,6 @@
 
 | Question                                                                                      | Answer Options                                             |
-|-----------------------------------------------------------------------------------------------|----------------------------------------------------------|
+|-------------------------------------------------------------------|----------------------------------------------------------|
 | 1. Do you eat high-calorie food frequently?                                                  | Yes/No                                                   |
 | 2. Do you usually eat vegetables in your meals?                                             | Never/Sometimes/Always                                   |
 | 3. How many main meals do you have daily?                                                   | 1/2/3 (meals)                   |
