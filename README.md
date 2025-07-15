@@ -3,3 +3,12 @@ As one of the most serious public health challenges of the 21st century, the imp
 
 # Key Findings
 
+
+Neural Network Predictions
+=> Method
+- Set the dependent variable (obesity_level) to sparse output for the multi-class output
+- built 3 layers to keep the model simple since the dataset is considered small (~ 2112 samples)
+- L1 as the regularizer to penalize some weights to zero, helping to generalize better to unseen data
+- Implemented Dropout layers by randomly setting a percentage of neurons to zero during training to prevent overfitting by promoting redundancy
+- Set the last layer to softmax since it is a multi-class problem
+- Used EarlyStopping to stop the model once the performance does not improve after learning for a period of time
