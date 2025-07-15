@@ -12,3 +12,7 @@ Neural Network Predictions
 - Implemented Dropout layers by randomly setting a percentage of neurons to zero during training to prevent overfitting by promoting redundancy
 - Set the last layer to softmax since it is a multi-class problem
 - Used EarlyStopping to stop the model once the performance does not improve after learning for a period of time
+
+=> Result
+- 
+<img width="984" height="784" alt="image" src="https://github.com/user-attachments/assets/5c1ccb3f-205a-4da7-b21a-7a6099051659" />
