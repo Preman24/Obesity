@@ -75,6 +75,8 @@ Neural Network Predictions
 - Used EarlyStopping to stop the model once the performance does not improve after learning for a period of time
 
 => Result
+<img width="984" height="784" alt="image" src="https://github.com/user-attachments/assets/6aee1dc8-0205-4ef6-ab36-75807477027b" />
+
 
 | Metric                | Value   |
 |-----------------------|---------|
